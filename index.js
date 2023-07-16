@@ -92,7 +92,6 @@ realtime.game.start$.subscribe(payload => {
 	for (let player of payload.players) {
 		player.characterInfo = getCharacterInfo(player.characterId)
 		player.CharacterColorName = getCharacterColorName(player.characterId, player.characterColor)
-		console.log(player.characterInfo);
 	}
 
 	payload.messageType = 'gameStart'
@@ -111,7 +110,6 @@ realtime.game.end$.subscribe(payload => {
 realtime.stock.percentChange$.subscribe((payload) => {
 	// Integer; player indexes of 1-4
 	const player = payload.playerIndex + 1;
-	//console.log(`player ${player} percent: ${payload.percent}`);
 	payload.messageType = 'playerPercent'
 	// Write to folder with player percentages
 	dataString = JSON.stringify(payload);
@@ -122,7 +120,6 @@ realtime.stock.percentChange$.subscribe((payload) => {
 realtime.stock.countChange$.subscribe((payload) => {
 	// Integer; player indexes of 1-4
 	const player = payload.playerIndex + 1;
-	//console.log(`player ${player} percent: ${payload.percent}`);
 	payload.messageType = 'countChange'
 	// Write to folder with player percentages
 	dataString = JSON.stringify(payload);

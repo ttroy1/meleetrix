@@ -11,10 +11,10 @@
             {
                 "falcon-green": [255, 255, 255]
             },
-        "borders_active": true,
+        "borders_active": false,
         "borders_rgb": [255, 255, 255]
     },
-    "grid_view_4p": true,
+    "grid_view_4p": false,
     "active_conn_type": "console",
     "console_address": "192.168.0.44",
     "slippi_dolphin_address": "192.168.0.45"

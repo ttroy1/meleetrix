@@ -154,7 +154,7 @@ class Meleetrix(SampleBase):
             ret_colors.append((0, 153, 56))
         # Puff-specific
         elif char_color == "Crown":
-            ret_colors.append((252, 186, 3))
+            ret_colors.append((133, 103, 27))
         # Puff-specific
         elif char_color == "Headband":
             ret_colors.append((7, 125, 94))
@@ -1081,7 +1081,6 @@ class WebsocketConn():
         while True:
             try:
                 message = await websocket.recv()
-                print(message)
                 # Convert to JSON
                 message = json.loads(message)
                 # After extracting components, check the type of message
