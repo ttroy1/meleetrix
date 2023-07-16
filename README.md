@@ -49,6 +49,14 @@ Note that the guide mentions 32x32 and 64x32 displays, while this project only s
 
 * [3mm Pitch](https://www.adafruit.com/product/4732)
 
+#### Hardware Pictured
+
+* [Raspberry Pi 3B+](https://www.adafruit.com/product/3775)
+* [64x64 LED Matrix, 2.5mm Pitch](https://www.adafruit.com/product/3649)
+* [5V 10A Power Supply](https://www.adafruit.com/product/658)
+* [RGB Matrix Bonnet](https://www.adafruit.com/product/3211)
+* [microSD Card](https://www.adafruit.com/product/1294) [Cheaper cards are available elsewhere]
+
 ### Software Installation
 
 Javascript setup (slp-realtime)
