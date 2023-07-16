@@ -72,6 +72,8 @@ Install git repo
 
 *Dolphin*
 
+* Use the IP address of your personal computer on your network. If unsure on how to do this, consider using an application like [Angry IP Scanner](https://angryip.org/).
+
 *Console*
 * If using a console, see Nikki's [Slippi Console Mirroring Guide](https://docs.google.com/document/d/1ezavBjqVGbVO8aqSa5EHfq7ZflrTCvezRYjOf51MOWg/edit). Installations of Homebrew and Nintendont Slippi on your Wii are prerequisites for mirroring. Separate documents on how to set these up are linked to from the mirroring guide.
 
