@@ -65,7 +65,7 @@ Outside of the linked microSD card, these are the parts used for the example pho
 
 The files included in this repo are designed to run directly on your Pi. SSH into your Pi and enter the following commands into bash as needed.
 
-Git is not already installed on your machine, install it now:
+If Git is not already installed on your machine, install it now:
 ```bash
 sudo apt-get update
 sudo apt-get install git python3-pip
