@@ -68,6 +68,12 @@ Outside of the linked microSD card, these are the parts used for the example pho
 
 #### Installing repository and required libraries
 
+If Git is not already installed on your machine, install it now:
+```bash
+sudo apt-get update
+sudo apt-get install git python3-pip
+```
+
 Javascript setup (slp-realtime)
 
 ```bash
