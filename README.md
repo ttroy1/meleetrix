@@ -101,8 +101,6 @@ There are several elements within Meleetrix available to be customized by the us
 
 ## Pull requests / Future updates
 
-
-
 ## Acknowledgements
 
 Slippi
