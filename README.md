@@ -72,12 +72,14 @@ Install git repo
 
 *Dolphin*
 
-* Use the IP address of your personal computer on your network. If unsure on how to do this, consider using an application like [Angry IP Scanner](https://angryip.org/).
+* Find the IP address of your personal computer. If unsure on how to do this, consider using an application such as [Angry IP Scanner](https://angryip.org/) to see all of the devices on your network.
 
 *Console*
 * If using a console, see Nikki's [Slippi Console Mirroring Guide](https://docs.google.com/document/d/1ezavBjqVGbVO8aqSa5EHfq7ZflrTCvezRYjOf51MOWg/edit). Installations of Homebrew and Nintendont Slippi on your Wii are prerequisites for mirroring. Separate documents on how to set these up are linked to from the mirroring guide.
 
 Once you've obtained the IP address of your device, add it as the *Console Address* or *Slippi Dolphin Address* in Meleetrix's config.json file, located in the repo's home directory. For more information on config.json and customization, see the [Customization](https://github.com/ttroy1/meleenotes/edit/main/README.md#customization) section of this document.
+
+Be sure to update the *Active Connection Type* field to the appropriate value as well.
 
 ### Usage
 
