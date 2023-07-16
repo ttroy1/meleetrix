@@ -27,15 +27,15 @@ Between games, the classic "Waiting for game..." screen is displayed.
 
 ##### *3P Games*
 
-![In Game](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
+![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
 
 ##### *4P Games (Grid)*
 
-![In Game](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg)
+![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg)
 
 ##### *4P Games (List)*
 
-![In Game](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
+![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
 
 #### Winner Screen
 
