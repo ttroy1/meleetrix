@@ -76,6 +76,10 @@ cd meleetrix
 pip install -r requirements.txt
 ```
 
+Install node:
+
+
+
 Javascript setup (slp-realtime)
 
 ```bash
