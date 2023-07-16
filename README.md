@@ -70,6 +70,10 @@ Outside of the linked microSD card, these are the parts used for the example pho
 
 Javascript setup (slp-realtime)
 
+```bash
+install
+```
+
 Install git repo
 
 #### Once repository is installed
