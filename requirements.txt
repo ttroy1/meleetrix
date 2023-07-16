@@ -78,5 +78,6 @@ touchphat==0.0.1
 twython==3.7.0
 unicornhathd==0.0.4
 urllib3==1.26.16
+websockets==11.0.3
 Werkzeug==1.0.1
 yarg==0.1.9
