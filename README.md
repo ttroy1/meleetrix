@@ -112,8 +112,7 @@ If you like this project, consider supporting those in the Melee community who m
 [slp-realtime](https://github.com/vinceau/slp-realtime)
 
 [project-slippi](https://github.com/project-slippi/project-slippi)
-
-[Donate or subscribe to Slippi](https://slippi.gg)
+* [Donate or subscribe to Slippi](https://slippi.gg)
 
 ## Licensing
 
