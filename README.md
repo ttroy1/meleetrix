@@ -69,6 +69,12 @@ sudo apt-get update
 sudo apt-get install git python3-pip
 ```
 
+Next, install this repository:
+```bash
+git clone https://github.com/ttroy1/meleetrix
+```
+
+
 Javascript setup (slp-realtime)
 
 ```bash
