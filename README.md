@@ -111,11 +111,6 @@ If you like this project, consider supporting those in the Melee community who m
 
 [Donate or subscribe to Slippi](https://slippi.gg)
 
-
-Slippi
-rpi-rgb-led-matrix
-Images?
-
 ## Licensing
 
 
