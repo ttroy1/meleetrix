@@ -15,32 +15,27 @@ The hardware this project was developed and tested with is listed below. Where a
 #### In-Game
 
 ##### *2P Games*
-
-[2P Games](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
+[Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
 
 ##### *3P Games*
-
-[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
+[Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
 
 ##### *4P Games (Grid)*
-
 ![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg)
 
 ##### *4P Games (List)*
-
 [alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
 
 #### Winner Screen
 
 In Teams matches, the color of the winning team will be displayed.
 
-![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/winner.jpeg)
+[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/winner.jpeg)
 
 #### Pregame and Postgame
 
 Between games, the classic "Waiting for game..." screen is displayed.
-
-![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
+[Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
 
 ## Installation
 
