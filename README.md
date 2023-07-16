@@ -16,7 +16,7 @@ The hardware this project was developed and tested with is listed below. Where a
 
 ##### *2P Games*
 
-![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
+![2P Games](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
 
 ##### *3P Games*
 
