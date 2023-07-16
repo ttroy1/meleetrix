@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "backgrounds_active": true,
+        "custom_backgrounds_active": true,
+        "custom_char_bgs":
+            {
+                "falcon-green": [14, 74, 46]
+            },
+        "custom_foregrounds_active": false,
+        "custom_char_fgs":
+            {
+                "falcon-green": [255, 255, 255]
+            },
+        "borders_active": true,
+        "borders_rgb": [255, 255, 255]
+    },
+    "grid_view_4p": true,
+    "active_conn_type": "console",
+    "console_address": "192.168.0.44",
+    "slippi_dolphin_address": "192.168.0.45"
+}
