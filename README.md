@@ -12,12 +12,6 @@ The hardware this project was developed and tested with is listed below. Where a
 
 ### Display States
 
-#### Pregame and Postgame
-
-Between games, the classic "Waiting for game..." screen is displayed.
-
-![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
-
 #### In-Game
 
 ##### *2P Games*
@@ -41,6 +35,12 @@ Between games, the classic "Waiting for game..." screen is displayed.
 In Teams matches, the color of the winning team will be displayed.
 
 ![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/winner.jpeg)
+
+#### Pregame and Postgame
+
+Between games, the classic "Waiting for game..." screen is displayed.
+
+![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
 
 ## Installation
 
