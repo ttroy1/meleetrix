@@ -7,7 +7,7 @@ Display local scores of Slippi-based instances of Super Smash Brothers Melee on 
 
 ---------------
 
-Meleetrix is a lightweight Python script to display information received from vinceau's slp-realtime library on a 64x64 LED Matrix. The character, color, percentage, and number of stocks are presented in a scoreboard-style layout. Games played on consoles running Slippi Nintendont or through Slippi Dolphin are supported.
+Meleetrix is a lightweight Python script to display information received from vinceau's [slp-realtime](https://github.com/vinceau/slp-realtime) library on a 64x64 LED Matrix. The character, color, percentage, and number of stocks are presented in a scoreboard-style layout. Games played on consoles running Slippi Nintendont or through Slippi Dolphin are supported.
 
 Running this project requires a Raspberry Pi and a 64x64 LED display.
 
