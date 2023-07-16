@@ -23,6 +23,8 @@ Between games, the classic "Waiting for game..." screen is displayed.
 
 ##### *2P Games*
 
+![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg)
+
 ##### *3P Games*
 
 ##### *4P Games (Grid)*
