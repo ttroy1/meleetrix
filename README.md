@@ -16,11 +16,11 @@ The hardware this project was developed and tested with is listed below. Where a
 
 ##### *2P Games*
 
-![2P Games](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
+[2P Games](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
 
 ##### *3P Games*
 
-![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
+[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
 
 ##### *4P Games (Grid)*
 
@@ -28,7 +28,7 @@ The hardware this project was developed and tested with is listed below. Where a
 
 ##### *4P Games (List)*
 
-![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
+[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
 
 #### Winner Screen
 
