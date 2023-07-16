@@ -66,9 +66,13 @@ Outside of the linked microSD card, these are the parts used for the example pho
 
 ### Software Installation
 
+#### Installing repository and required libraries
+
 Javascript setup (slp-realtime)
 
 Install git repo
+
+#### Once repository is installed
 
 *Dolphin*
 
