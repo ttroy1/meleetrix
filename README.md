@@ -77,9 +77,9 @@ Install git repo
 *Console*
 * If using a console, see Nikki's [Slippi Console Mirroring Guide](https://docs.google.com/document/d/1ezavBjqVGbVO8aqSa5EHfq7ZflrTCvezRYjOf51MOWg/edit). Installations of Homebrew and Nintendont Slippi on your Wii are prerequisites for mirroring. Separate documents on how to set these up are linked to from the mirroring guide.
 
-Once you've obtained the IP address of your device, add it as the *Console Address* or *Slippi Dolphin Address* in Meleetrix's config.json file, located in the repo's home directory. For more information on config.json and customization, see the [Customization](https://github.com/ttroy1/meleenotes/edit/main/README.md#customization) section of this document.
+Once you've obtained the IP address of your device, add it as the *Console Address* or *Slippi Dolphin Address* in Meleetrix's config.json file, located in the repo's home directory. 
 
-Be sure to update the *Active Connection Type* field to the appropriate value as well.
+Be sure to update the *Active Connection Type* field to the appropriate value as well. For more information on config.json and customization, see the [Customization](https://github.com/ttroy1/meleenotes/edit/main/README.md#customization) section of this document.
 
 ### Usage
 
