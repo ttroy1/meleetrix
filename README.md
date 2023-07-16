@@ -1,6 +1,6 @@
 # Meleetrix v1.0
 
-Display local scores of Slippi-based instances of Super Smash Brothers Melee for the Nintendo Gamecube.
+Display local scores of Slippi-based instances of Super Smash Brothers Melee on an LED matrix.
 
 
 < insert image here >
