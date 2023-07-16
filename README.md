@@ -10,8 +10,6 @@ Running this project requires a Raspberry Pi and a 64x64 LED display.
 
 The hardware this project was developed and tested with is listed below. Where applicable, links to the product's page on Adafruit have been listed. As of writing (July 2023), you may have difficulty finding the Pi 3/Pi 4 available for sale outside of the secondary market.
 
----------------
-
 ### Display States
 
 #### In-Game
@@ -43,8 +41,6 @@ In Teams matches, the color of the winning team will be displayed.
 Between games, the classic "Waiting for game..." screen is displayed.
 
 ![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
-
----------------
 
 ## Installation
 
@@ -89,13 +85,11 @@ Once you've obtained the IP address of your device, add it as the *Console Addre
 
 Be sure to update the *Active Connection Type* field to the appropriate value as well. For more information on config.json and customization, see the [Customization](https://github.com/ttroy1/meleenotes/edit/main/README.md#customization) section of this document.
 
----------------
 
 ### Usage
 
 I recommend against starting the script while a game is in progress - while slp-realtime will generally catch up to the current game state, there can also be unexpected behavior.
 
----------------
 
 ### Customization
 
@@ -115,8 +109,6 @@ There are several elements within Meleetrix available to be customized by the us
 | Console Address                      | The IP address of your console running Slippi Nintendont. | console_address      | String | "192.168.0.0" |
 | Slippi Dolphin Address               | The IP address of your PC running Slippi Dolphin. | slippi_dolphin_address      | String | "192.168.0.0" |
 
----------------
-
 ## Acknowledgements
 
 If you like this project, consider supporting those in the Melee community who made it possible:
@@ -125,8 +117,6 @@ If you like this project, consider supporting those in the Melee community who m
 
 [project-slippi](https://github.com/project-slippi/project-slippi)
   * [Donate or subscribe to Slippi](https://slippi.gg)
-
----------------
 
 ## Licensing
 
