@@ -106,7 +106,9 @@ There are several elements within Meleetrix available to be customized by the us
 If you like this project, consider supporting those in the Melee community who made it possible:
 
 [slp-realtime](https://github.com/vinceau/slp-realtime)
+
 [project-slippi](https://github.com/project-slippi/project-slippi)
+
 [Donate or subscribe to Slippi](https://slippi.gg)
 
 
