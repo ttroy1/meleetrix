@@ -43,7 +43,7 @@ Between games, the classic "Waiting for game..." screen is displayed.
 
 For a great guide on the parts required and their assembly, see the wiki provided in the mlb-led-scoreboard library, linked [here](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard/wiki).
 
-Note that the guide mentions 32x32 and 64x32 displays, while this project only supports 64x64 displays. Using a 64x64 display with the Adafruit bonnet does require a small amount of soldering; a guide these details is available [on Adafruit](https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/driving-matrices). Adafruit has several different versions of 64x64 displays available, each with varying space between each pixel (called 'pitch'), which changes the overall size of the display. Consider choosing a pitch based on your expected viewing distance from the display - the closer you are, the smaller your pitch should be.
+Note that the guide mentions 32x32 and 64x32 displays, while this project only supports 64x64 displays. Using a 64x64 display with the Adafruit bonnet does require a small amount of soldering; specific instructions for this are available [on Adafruit](https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/driving-matrices). Adafruit has several different versions of 64x64 displays available, each with varying space between each pixel (called 'pitch'), which changes the overall size of the display. Consider choosing a pitch based on your expected viewing distance from the display - the closer you are, the smaller your pitch should be.
 
 * [2mm Pitch](https://www.adafruit.com/product/5362)
 * [2.5mm Pitch](https://www.adafruit.com/product/3649)
