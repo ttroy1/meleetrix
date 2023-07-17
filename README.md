@@ -78,9 +78,7 @@ cd meleetrix
 pip install -r requirements.txt
 ```
 
-Install node:
-
-
+To run index.js, install slp-realtime. ```rxjs``` and ```@slippi/slippi-js``` are both peer dependencies of slp-realtime. Node will need
 
 Javascript setup (slp-realtime)
 
