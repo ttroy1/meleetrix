@@ -10,29 +10,20 @@ Running this project requires a Raspberry Pi and a 64x64 LED display.
 
 The hardware this project was developed and tested with is listed below. Where applicable, links to the product's page on Adafruit have been listed. As of writing (July 2023), you may have difficulty finding the Pi 3/Pi 4 available for sale outside of the secondary market.
 
-### Display States
-
-#### In-Game
+#### Display States
 
 ##### *4P Games (Grid)*
 ![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg)
 
-##### *4P Games (List)*:[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
+##### *4P Games (List)*: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
 
 ##### *3P Games*: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
 
 ##### *2P Games*: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
 
-#### Winner Screen
+##### Winner Screen: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/winner.jpeg)
 
-In Teams matches, the color of the winning team will be displayed.
-
-[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/winner.jpeg)
-
-#### Pregame and Postgame
-
-Between games, the classic "Waiting for game..." screen is displayed.
-[Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
+##### Pregame and Postgame: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/waiting.jpeg)
 
 ## Installation
 
