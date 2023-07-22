@@ -116,6 +116,10 @@ There are several elements within Meleetrix available to be customized by the us
 | Console Address                      | The IP address of your console running Slippi Nintendont. | console_address      | String | "192.168.0.0" |
 | Slippi Dolphin Address               | The IP address of your PC running Slippi Dolphin. | slippi_dolphin_address      | String | "192.168.0.0" |
 
+## Pull requests / Issues
+
+This project is pretty barebones as is - there's a lot more that could be done with the information provided by Slippi. Unfortunately, I lack the experience and time to flesh this out further. As such, pull requests and issue submissions are welcome.
+
 ## Acknowledgements
 
 If you like this project, consider supporting those in the Melee community who made it possible:
@@ -126,6 +130,8 @@ If you like this project, consider supporting those in the Melee community who m
   * [Donate or subscribe to Slippi](https://slippi.gg)
 
 ## Licensing
+
+This project uses the MIT License.
 
 
 
