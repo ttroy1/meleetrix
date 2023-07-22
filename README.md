@@ -51,7 +51,7 @@ Outside of the linked microSD card, these are the parts used for the example pho
 
 #### Installing repository and required libraries
 
-The files included in this repo are designed to run directly on your Pi. SSH into your Pi and enter the following commands into bash as needed.
+The files included in this repo are designed to run directly on your Pi. Using your Pi directly or through SSH, enter the following commands into bash as needed.
 
 If Git is not already installed on your machine, install it now:
 ```bash
@@ -66,17 +66,9 @@ cd meleetrix
 pip install -r requirements.txt
 ```
 
-To run index.js, install slp-realtime. ```rxjs``` and ```@slippi/slippi-js``` are both peer dependencies of slp-realtime. Node will need
+To run index.js, install slp-realtime. ```rxjs``` and ```@slippi/slippi-js``` are both peer dependencies of slp-realtime. See instructions regarding slp-realtime installation [here](https://github.com/vinceau/slp-realtime).
 
-Javascript setup (slp-realtime)
-
-```bash
-install
-```
-
-Install git repo
-
-#### Once repository is installed
+#### Once repositories are installed
 
 *Dolphin*
 
