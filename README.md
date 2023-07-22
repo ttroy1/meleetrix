@@ -84,8 +84,19 @@ Be sure to update the *Active Connection Type* field to the appropriate value as
 
 ### Usage
 
+Two small shell scripts have been provided to get started, both of which are located in the library's main folder. You main want to modify the stop.sh script if it will interfere with similarly named processes from other applications.
+
 I recommend against starting the script while a game is in progress - while slp-realtime will generally catch up to the current game state, there can also be unexpected behavior.
 
+*Start Meleetrix*
+```bash
+bash run.sh
+```
+
+*Stop Meleetrix*
+```bash
+bash stop.sh
+```
 
 ### Customization
 
