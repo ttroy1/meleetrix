@@ -14,17 +14,14 @@ The hardware this project was developed and tested with is listed below. Where a
 
 #### In-Game
 
-##### *2P Games*
-[Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
-
-##### *3P Games*
-[Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
-
 ##### *4P Games (Grid)*
 ![alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerGrid.jpeg)
 
-##### *4P Games (List)*
-[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
+##### *4P Games (List)*:[alt text](https://github.com/ttroy1/meleetrix/blob/main/assets/images/fourPlayerRows.jpeg)
+
+##### *3P Games*: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/threePlayers.jpeg)
+
+##### *2P Games*: [Image](https://github.com/ttroy1/meleetrix/blob/main/assets/images/twoPlayers.jpeg)
 
 #### Winner Screen
 
