@@ -8,7 +8,7 @@ Meleetrix is a lightweight Python script to display information received from vi
 
 Running this project requires a Raspberry Pi and a 64x64 LED display.
 
-The hardware this project was developed and tested with is listed below. Where applicable, links to the product's page on Adafruit have been listed. As of writing (July 2023), you may have difficulty finding the Pi 3/Pi 4 available for sale outside of the secondary market.
+The hardware this project was developed and tested with is listed below. Where applicable, links to the product's page on Adafruit have been listed. As of writing (August 2023), you may have difficulty finding the Pi 3/Pi 4 available for sale outside of the secondary market.
 
 #### Display States
 
@@ -84,7 +84,7 @@ Be sure to update the *Active Connection Type* field to the appropriate value as
 
 ### Usage
 
-Two small shell scripts have been provided to get started, both of which are located in the library's main folder. You main want to modify the stop.sh script if it will interfere with similarly named processes from other applications.
+Two small shell scripts have been provided to get started, both of which are located in the library's main folder. You may want to modify the stop.sh script if it will interfere with similarly named processes from other applications.
 
 I recommend against starting the script while a game is in progress - while slp-realtime will generally catch up to the current game state, there can also be unexpected behavior.
 
