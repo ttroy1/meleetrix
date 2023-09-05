@@ -118,7 +118,7 @@ There are several elements within Meleetrix available to be customized by the us
 
 ## Pull requests / Issues
 
-This project is pretty barebones as is - there's a lot more that could be done with the information provided by Slippi. Unfortunately, I lack the experience and time to flesh this out further. As such, pull requests and issue submissions are welcome.
+This project is pretty barebones as is - there's a lot more that could be done with the information provided by Slippi. As such, pull requests and issue submissions are welcome.
 
 ## Acknowledgements
 
