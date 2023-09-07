@@ -1,4 +1,4 @@
-# Thomas Troy, 2023
+# ttroy1, 2023
 # Using websockets, retrieve information from slp-realtime and display on matrix
 
 # -----------------------------------------------------------------------------
